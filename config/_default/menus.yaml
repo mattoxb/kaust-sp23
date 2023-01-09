@@ -7,6 +7,3 @@ main:
   - name: Documentation
     url: docs/
     weight: 20
-  - name: Lectures
-    url: lectures/
-    weight: 30

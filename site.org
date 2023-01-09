@@ -1,0 +1,238 @@
+#+HUGO_BASE_DIR: .
+#+MACRO: uva @@hugo:{{<UVa2 number="$1" >}}@@
+
+
+* Docs
+:PROPERTIES:
+:HUGO_SECTION: docs
+:EXPORT_HUGO_SECTION: docs
+:END:
+
+** Why Take This Course?
+:PROPERTIES:
+:EXPORT_FILE_NAME: why-take-this-course
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 1 :date 2022-08-22 :publishdate 2022-07-01
+:END:
+
+Sometimes you need something a bit more powerful than a spreadsheet.  For most people, this means doing everything by hand.  But for you we have better things in mind.
+You will be able to use the computer to get some real things done.  You will be able to:
+
+- Read data from a file and have the computer analyze if for you.
+- Create a web site complete with interactive forms and a database to remember what happened.
+- Create visualizations to understand phenomena or to convince other people to take action.
+- Perform scientific computations in other classes such as Physics.
+- Solve programming puzzles by learning competitive programming practices.
+
+** Getting Started
+:PROPERTIES:
+:EXPORT_FILE_NAME: getting-started
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 2 :date 2022-08-22 :publishdate 2022-07-01
+:END:
+
+*** How Do I Get Started?
+
+  - Join the CampusWire forum.  If you registered before class started, you should have gotten an invite.  If you registered late,
+    or did not get the invite, you need to email the instructor.
+  - It is recommended that you get these books:
+    - [[https://cpbook.net][Competitive Programming 4]].  It is a two book set.
+    - [[https://link.springer.com/book/10.1007/978-3-319-72547-5][Guide to Competitive Programming]].  As of this writing the PDF is free.
+  - Register on [[https://codeforces.com][Code Forces]].  Your username *will be visible* to other students; you can create a "throwaway"
+    account if you want just for this course.
+    - Once you are registered, join [[https://codeforces.com/group/PHxDiFeaeq/contests][the class group]].  This is where your problems
+      will be hosted.
+
+*** How do I get good at this?
+
+Practice.  A lot.  But do it efficiently...
+
+  - Attend contests as much as you can.
+    - [[https://codeforces.com][Code Forces]] has two hour long contests usually once or twice a week, for instance.
+    - After the contest is over, read the commentary, both for the problems you solved, and the problems you attempted and could not solve.
+    - Upsolve the ones you couldn't do.  (I don't know why they call it upsolving.)  This means that you go back to the computer, finish
+      your solution, and submit it until you get it accepted.
+  - Solve practice problems
+    - This has a similar feel, but in this case it's okay get help.  If you are solving UVa problems you can use the UDebug and UHunt
+      sites for extra hints / sample inputs.
+
+** Syllabus
+:PROPERTIES:
+:EXPORT_FILE_NAME: syllabus
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 3 :date 2022-08-22 :publishdate 2022-07-01
+:END:
+
+*** Location and Times
+
+  - Course Title: Introduction to Programming
+  - Rubric: CS 101 KAUST  (It is totally made up....)
+  - Dates: January 17th to May 2nd, Tuesdays and Thursdays
+  - Time: 14:00 &ndash; 15:15
+  - Location: ???
+  - Instructor: Mattox Beckman
+  - Office Hours: tba
+
+*** Objectives and Outcomes
+
+Upon successfully completing this course, you will be able to program in Python and use it to perform many kinds of tasks.
+You won't be an expert at programming, but you will have the skills to learn new things when you need them.
+
+*** Class Structure
+
+The class meets twice a week.  The beginning of the class will have a short group activity based on the POGIL methodology.
+Afterwards, the professor will show you a coding demo and give you a short problem to work on with your group.
+
+*** Assignments and Grading
+
+- There will be 10 homework sets, collectively worth 70% of the grade.  They will typically be released on Thursday at the end of class,
+  and due in 12 days.
+- Attendance will be worth 5%.
+- There will be a final project worth 20%.  You will propose a topic to work on based on your own interests and skills.
+
+*** Students with Disabilities
+
+To obtain disability-related academic adjustments and/or auxiliary aids,
+students with disabilities must contact the course instructor as soon as
+possible. To insure that disability-related concerns are properly
+addressed from the beginning, students with disabilities who require
+assistance to participate in this class should contact disability
+resources and educational services
+([[https://www.disability.illinois.edu/)][DRES]] and see the instructor
+as soon as possible. If you need accommodations for any sort of
+disability, please speak to me after class, or make an appointment to
+see me, or see me during my office hours. DRES provides students with
+academic accommodations, access, and support services. To contact DRES
+you may visit 1207 S. Oak St., Champaign, call 333-4603 (v/tdd), or
+e-mail a message to [[mailto:disability@uiuc.edu][disability@uiuc.edu]].
+
+*** Emergency Response Recommendations
+
+The university police have posted some [[http://police.illinois.edu/emergency/][emergency response recommendations]]. I
+encourage you to review this website and the campus building
+[[http://police.illinois.edu/emergency-preparedness/building-emergency-action-plans/][floor plans website]]
+within the first 10 days of class.
+
+Of course, since we're all online, your classroom is likely your living space.  Have you considered making
+a fire safety plan with your family or roommates?
+
+*** Family Educational Rights and Privacy Act (FERPA)
+
+
+Any student who has suppressed their directory information pursuant to family
+educational rights and privacy act (FERPA) should self-identify to the
+instructor to ensure protection of the privacy of their attendance in this
+course. see the [[http://registrar.illinois.edu/ferpa][FERPA]] site for more information.
+
+*** Mental Health
+
+Diminished mental health, including significant stress, mood changes, excessive
+worry, substance/alcohol abuse, or problems with eating and/or sleeping can
+interfere with optimal academic performance, social development, and emotional
+wellbeing. The University of Illinois offers a variety of confidential services
+including individual and group counseling, crisis intervention, psychiatric
+services, and specialized screenings at no additional cost. If you or someone
+you know experiences any of the above mental health concerns, it is strongly
+encouraged to contact or visit any of the University's resources provided below.
+Getting help is a smart and courageous thing to do -- for yourself and for those
+who care about you.
+
+Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
+
+McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
+
+This is where the syllabus will be.
+
+** Schedule
+:PROPERTIES:
+:EXPORT_FILE_NAME: schedule
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 4
+:END:
+
+| WeekDay | Date   | Lecture Topic / Objectives | Assignments |
+|---------+--------+----------------------------+-------------|
+|       1 | Jan 17 | [[*Course Introduction]]       |             |
+|         | Jan 19 | Variables and Functions    |             |
+|---------+--------+----------------------------+-------------|
+|       2 | Jan 24 | Lists and Strings          |             |
+|         | Jan 26 | Dictionaries               |             |
+|---------+--------+----------------------------+-------------|
+|       3 | Jan 31 | Classes and Objects 1      |             |
+|         | Feb 2  | Inheritance                |             |
+|---------+--------+----------------------------+-------------|
+|       4 | Feb 7  | Interactice Programs       |             |
+|         | Feb 9  | Regular Expressions        |             |
+|---------+--------+----------------------------+-------------|
+|       5 | Feb 14 | Web Programming            |             |
+|         | Feb 16 |                            |             |
+|---------+--------+----------------------------+-------------|
+|       6 | Feb 21 | Reading Text Files         |             |
+|         | Feb 23 | Reading CSV Files          |             |
+|---------+--------+----------------------------+-------------|
+|       7 | Feb 28 | Basic SQL                  |             |
+|         | Mar 2  | Data Driven Programming    |             |
+|---------+--------+----------------------------+-------------|
+|       8 | Mar 7  | Data Frames                |             |
+|         | Mar 9  | Data Visualization         |             |
+|---------+--------+----------------------------+-------------|
+|         | Mar 14 | *Spring Break*             |             |
+|         | Mar 16 |                            |             |
+|---------+--------+----------------------------+-------------|
+|       9 | Mar 21 | C++ 1                      |             |
+|         | Mar 23 |                            |             |
+|---------+--------+----------------------------+-------------|
+|      10 | Mar 28 | Competitive Programming    |             |
+|         | Mar 30 | Recursion                  |             |
+|---------+--------+----------------------------+-------------|
+|      11 | Apr 4  | Divide and Conquer         |             |
+|         | Apr 6  | Greedy Algorithms          |             |
+|---------+--------+----------------------------+-------------|
+|      12 | Apr 11 | Graph Representation       |             |
+|         | Apr 13 | Graph Search               |             |
+|---------+--------+----------------------------+-------------|
+|      13 | Apr 18 | Matlab / Octave            |             |
+|         | Apr 20 |                            |             |
+|---------+--------+----------------------------+-------------|
+|      14 | Apr 25 |                            |             |
+|         | Apr 27 |                            |             |
+|---------+--------+----------------------------+-------------|
+|      15 | May 2  | Project                    |             |
+|         | Apr 4  | *Reading Day*              |             |
+|---------+--------+----------------------------+-------------|
+
+* Lectures
+:PROPERTIES:
+:HUGO_SECTION: lectures
+:EXPORT_HUGO_SECTION: lectures
+:END:
+
+** Template :noexport:
+:PROPERTIES:
+:ID:
+:EXPORT_FILE_NAME: template
+:END:
+
+*** Synopsis
+
+*** Slides
+
+** Course Introduction
+:PROPERTIES:
+:ID:       a31c5d8b-eada-4117-96d7-ffcf4a7f5838
+:EXPORT_FILE_NAME: course-introduction
+:END:
+
+Welcome to KAUST-UIUC Introduction to Programming!
+
+Our objectives for this period:
+
+- Introductions!  (Well, you all know each other, but I need to get to know you, and you need to get to know me!)
+- Review the topics for this course
+  - You can suggest topics too!
+- Get a working version of Python on your computer via
+  - local install
+  - [[https://replit.com][repl.it]]
+- Explore [[https://pogil.org][POGIL]] -- Process Oriented Guided Inquiry Learning
+
+
+* End :noexport:
+;; Local Variables:
+;; eval: (org-link-set-parameters "class" :export #'my-org-export-class-link)
+;; End:

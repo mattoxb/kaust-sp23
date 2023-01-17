@@ -15,6 +15,7 @@ Our objectives for this period:
     -   local install
     -   [repl.it](https://replit.com)
 -   Explore [POGIL](https://pogil.org) -- Process Oriented Guided Inquiry Learning
+    -   We'll have a real example next time!
 
 
 ## Links {#links}

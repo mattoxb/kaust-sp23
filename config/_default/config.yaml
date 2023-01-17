@@ -7,8 +7,8 @@ title: 'CS 101 KAUST (Spring 2023)' # Website name
 baseurl: 'https://mattoxb.github.io/kaust-sp23/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
-RelativeURLs=true
-CanonifyURLs=true
+RelativeURLs: true
+CanonifyURLs: true
 
 ############################
 ## LANGUAGE

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'CS 101 KAUST (Spring 2023)' # Website name
-baseurl: '' # Website URL
+baseurl: 'https://mattoxb.github.io/kaust-sp23/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
